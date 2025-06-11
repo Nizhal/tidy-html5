@@ -147,7 +147,7 @@ msgid ""
 "XML output is requested. "
 msgstr ""
 "உடல் குறிச்சொல்லின் உள்ளடக்கங்களை மட்டுமே உஉகுமொ துண்டுகளாக அச்சிட வேண்டுமா "
-"என்று இந்த விருப்பம் குறிப்பிடுகிறது. <br/> <var>ஆட்டோ </var> என "
+"என்று இந்த விருப்பம் குறிப்பிடுகிறது. <br/> <var>தானி </var> என "
 "அமைக்கப்பட்டால், உடல் குறிச்சொல் ஊகிக்கப்பட்டிருந்தால் மட்டுமே இது "
 "செய்யப்படுகிறது. <br/> ஏற்கனவே இருக்கும் முழு பக்கங்களையும் மற்றொரு "
 "பக்கத்தின் ஒரு பகுதியாக இணைக்க பயனுள்ளதாக இருக்கும். <br/> எக்ச்எம்எல் "
@@ -544,7 +544,7 @@ msgid ""
 "value to <var>yes</var>."
 msgstr ""
 "இந்த விருப்பம் நேர்த்தியாக எதிர்பாராத ஐபன்களை <code> = </code> எழுத்துக்களை "
-"அருகிலுள்ள ஐபன்கள் காணும்போது மாற்ற வேண்டும். <br/> இயல்புநிலை <var>ஆட்டோ "
+"அருகிலுள்ள ஐபன்கள் காணும்போது மாற்ற வேண்டும். <br/> இயல்புநிலை <var>தானி "
 "</var> ஆகும், இது HTML5 ஆவண வகைகளுக்கு <var>இல்லை </var> ஆக செயல்படும், "
 "மேலும் மற்ற எல்லா ஆவண வகைகளுக்கும் <var>ஆம் </var>. <br/> உஉகுமொ SGML "
 "கருத்து தொடரியல் கைவிட்டுள்ளது, மேலும் உஉகுமொ இன் அனைத்து பதிப்புகளுக்கும் "
@@ -728,7 +728,7 @@ msgid ""
 "spaces or tabs are used. "
 msgstr ""
 "நேர்த்தியானது தொகுதி-நிலை குறிச்சொற்களை உள்தள்ள வேண்டும் என்றால் இந்த "
-"விருப்பம் குறிப்பிடுகிறது. <br/> <var>ஆட்டோ </var> என அமைக்கப்பட்டால், "
+"விருப்பம் குறிப்பிடுகிறது. <br/> <var>தானி </var> என அமைக்கப்பட்டால், "
 "<குறியீடு> &lt; தலைப்பு &gt; <code> &lt; td &gt; </code>, அல்லது <code> "
 "&lt; p &gt; </code> ஒரு தொகுதி-நிலை உறுப்பு உள்ளிட்ட உள்ளடக்கத்தின் "
 "அடிப்படையில். <br/> <code> இன்டென்ட் </code> ஐ <var>ஆம் </var> க்கு அமைத்தல்"
@@ -868,7 +868,7 @@ msgstr ""
 "இடமாகக் குறைக்கப்படும். <br/> அமைக்கப்பட்டால் <var> ஆம் </var> இந்த "
 "விருப்பம் நேர்த்தியாக மூலத்தில் காணப்படும் சில தாவல்களை வைத்திருக்க "
 "வேண்டும், ஆனால் <குறியீடு> &lt; முன் &gt; </code> போன்ற முன் "
-"வடிவமைக்கப்பட்ட தொகுதிகளில் மட்டுமே, மற்றும் <code> &lt; ச்கிரிப்ட் &gt; "
+"வடிவமைக்கப்பட்ட தொகுதிகளில் மட்டுமே, மற்றும் <code> &lt; கைஉரை &gt; "
 "<code> &lt;? பிஎச்பி ...? &gt; </code>. எப்போதும்போல, மூலத்தில் உள்ள மற்ற "
 "எல்லா தாவல்களும் அல்லது தாவல்களின் வரிசைகளும் ஒரு இடத்துடன் மாற்றப்படும்."
 
@@ -1018,7 +1018,7 @@ msgid ""
 "exception of <code>class</code> and <code>style</code>. "
 msgstr ""
 "<var> ஆம் </var> என அமைக்கப்பட்டால் <கோட்> தூய்மையான </code> இன் நடத்தையை "
-"மாற்ற இந்த விருப்பம் பயன்படுத்தப்படலாம். <br/> <var>ஆட்டோ </var> என "
+"மாற்ற இந்த விருப்பம் பயன்படுத்தப்படலாம். <br/> <var>தானி </var> என "
 "அமைக்கப்பட்டால், உள் <code> &lt; div &gt; </code> இன் பண்புக்கூறுகள் "
 "வெளிப்புறத்திற்கு நகர்த்தப்படுகின்றன. புதுமையான <code> &lt; div &gt; "
 "</code> <குறியீடு> அடையாளம் </code> பண்புக்கூறுகள் <em> இல்லை </em> "
@@ -1234,7 +1234,7 @@ msgstr ""
 "சுழிய அகலம் நோ-பிரேக் ச்பேச் என்றும் அழைக்கப்படுகிறது; U+FEFF இன் மதிப்பு "
 "உள்ளது) வெளியீட்டின் தொடக்கத்திற்கு எழுத வேண்டுமா என்பதைக் குறிப்பிடுகிறது, "
 "மேலும் UTF-8 மற்றும் UTF-16 வெளியீட்டு குறியாக்கங்களுக்கு மட்டுமே "
-"பொருந்தும். <br/> <var>ஆட்டோ </var> என அமைக்கப்பட்டால், உள்ளீட்டின் "
+"பொருந்தும். <br/> <var>தானி </var> என அமைக்கப்பட்டால், உள்ளீட்டின் "
 "தொடக்கத்தில் ஒரு வெடிகுண்டு இருந்தால் மட்டுமே இந்த விருப்பம் வெளியீட்டிற்கு "
 "ஒரு வெடிகுண்டு எழுத இந்த விருப்பம் ஏற்படுத்துகிறது. <br/> யுடிஎஃப் -16 "
 "வெளியீட்டு குறியாக்கங்களைப் பயன்படுத்தி எக்ச்எம்எல்/எக்ச்எச்.டி.எம்.எல் "
@@ -1539,7 +1539,7 @@ msgid ""
 "This option specifies that Tidy should skip nested tags when parsing script "
 "and style data. "
 msgstr ""
-"ச்கிரிப்ட் மற்றும் பாணி தரவுகளை பாகுபடுத்தும்போது நேர்த்தியான நேர்த்தியான "
+"கைஉரை மற்றும் பாணி தரவுகளை பாகுபடுத்தும்போது நேர்த்தியான நேர்த்தியான "
 "குறிச்சொற்களைத் தவிர்க்க வேண்டும் என்று இந்த விருப்பம் குறிப்பிடுகிறது."
 
 #. Important notes for translators:
@@ -1752,7 +1752,7 @@ msgid ""
 msgstr ""
 "இந்த விருப்பம் நேர்த்தியாக வாசிப்புக்கு சில கூடுதல் வெற்று வரிகளைச் சேர்க்க "
 "வேண்டுமா என்பதைக் குறிப்பிடுகிறது. <br/> இயல்புநிலை <var>இல்லை </var>. <br/>"
-" <var>ஆட்டோ </var> என அமைக்கப்பட்டால், கிட்டத்தட்ட எல்லா புதிய "
+" <var>தானி </var> என அமைக்கப்பட்டால், கிட்டத்தட்ட எல்லா புதிய "
 "எழுத்துக்களையும் அகற்றும்."
 
 #. Important notes for translators:
@@ -2380,7 +2380,7 @@ msgstr ""
 "u+007e க்கு மேலே. பரிந்துரைத்தபடி நேர்த்தியானது உங்களுக்காக யூரி இலிருந்து தப்பிக்கிறது \n"
 "HTML 4.01 பிரிவு B.2.1 மற்றும் நீகுமொ 1.0 பிரிவு 4.2.2. சில பயனர் முகவர்கள் \n"
 "அத்தகைய யூரி கள் மற்றும் சில சேவையக பக்கத்திலிருந்து தப்பிக்க மற்றொரு வழிமுறையைப் பயன்படுத்தவும் \n"
-"ச்கிரிப்ட்கள் அதைப் பொறுத்தது. நீங்கள் அதைச் சார்ந்து இருக்க விரும்பினால், நீங்கள் வேண்டும் \n"
+"கைஉரைகள் அதைப் பொறுத்தது. நீங்கள் அதைச் சார்ந்து இருக்க விரும்பினால், நீங்கள் வேண்டும் \n"
 "யூரியை உங்கள் சொந்தமாக தப்பிக்க. மேலும் தகவலுக்கு தயவுசெய்து பார்க்கவும் \n"
 "https://www.w3.org/international/o-url-and-ident.html\n"
 
@@ -2427,7 +2427,7 @@ msgstr ""
 "காட்சி அல்லாத உலாவிகள். நோக்கம் மற்றும் தலைப்புகள் பண்புக்கூறுகள் \n"
 "எந்த தலைப்புகள் பொருந்தும் என்பதைக் குறிப்பிட அட்டவணை செல்கள் பயனுள்ளதாக இருக்கும் \n"
 "ஒவ்வொரு அட்டவணை கலத்திற்கும், காட்சி அல்லாத உலாவிகளை வழங்க உதவுகிறது \n"
-"ஒவ்வொரு கலத்திற்கும் ஒரு அர்த்தமுள்ள சூழல்.\n"
+"ஒவ்வொரு கலத்திற்கும் ஒரு பொருள்உள்ள சூழல்.\n"
 
 #. This console output should be limited to 78 characters per line.
 msgctxt "TEXT_M_IMAGE_ALT"
@@ -3251,39 +3251,39 @@ msgstr "[1.1.5.1]: <பொருள்> மாற்று உள்ளடக்
 
 msgctxt "AUDIO_MISSING_TEXT_WAV"
 msgid "[1.1.6.1]: audio missing text transcript (wav)."
-msgstr "[1.1.6.1]: ஆடியோ காணாமல் போன உரை டிரான்ச்கிரிப்ட் (WAV)."
+msgstr "[1.1.6.1]: ஆடியோ காணாமல் போன உரை டிரான்கைஉரை (WAV)."
 
 msgctxt "AUDIO_MISSING_TEXT_AU"
 msgid "[1.1.6.2]: audio missing text transcript (au)."
-msgstr "[1.1.6.2]: ஆடியோ காணாமல் போன உரை டிரான்ச்கிரிப்ட் (AU)."
+msgstr "[1.1.6.2]: ஆடியோ காணாமல் போன உரை டிரான்கைஉரை (AU)."
 
 msgctxt "AUDIO_MISSING_TEXT_AIFF"
 msgid "[1.1.6.3]: audio missing text transcript (aiff)."
-msgstr "[1.1.6.3]: ஆடியோ காணாமல் போன உரை டிரான்ச்கிரிப்ட் (AIFF)."
+msgstr "[1.1.6.3]: ஆடியோ காணாமல் போன உரை டிரான்கைஉரை (AIFF)."
 
 msgctxt "AUDIO_MISSING_TEXT_SND"
 msgid "[1.1.6.4]: audio missing text transcript (snd)."
-msgstr "[1.1.6.4]: ஆடியோ காணாமல் போன உரை டிரான்ச்கிரிப்ட் (எச்.என்.டி)."
+msgstr "[1.1.6.4]: ஆடியோ காணாமல் போன உரை டிரான்கைஉரை (எச்.என்.டி)."
 
 msgctxt "AUDIO_MISSING_TEXT_RA"
 msgid "[1.1.6.5]: audio missing text transcript (ra)."
-msgstr "[1.1.6.5]: ஆடியோ காணாமல் போன உரை டிரான்ச்கிரிப்ட் (ஆர்.ஏ)."
+msgstr "[1.1.6.5]: ஆடியோ காணாமல் போன உரை டிரான்கைஉரை (ஆர்.ஏ)."
 
 msgctxt "AUDIO_MISSING_TEXT_RM"
 msgid "[1.1.6.6]: audio missing text transcript (rm)."
-msgstr "[1.1.6.6]: ஆடியோ காணாமல் போன உரை டிரான்ச்கிரிப்ட் (ஆர்.எம்)."
+msgstr "[1.1.6.6]: ஆடியோ காணாமல் போன உரை டிரான்கைஉரை (ஆர்.எம்)."
 
 msgctxt "FRAME_MISSING_LONGDESC"
 msgid "[1.1.8.1]: <frame> may require 'longdesc'."
-msgstr "[1.1.8.1]: <frame> 'லாங்டெச்' தேவைப்படலாம்."
+msgstr "[1.1.8.1]: <frame> 'விரிவுஉரை' தேவைப்படலாம்."
 
 msgctxt "AREA_MISSING_ALT"
 msgid "[1.1.9.1]: <area> missing 'alt' text."
-msgstr "[1.1.9.1]: <பகுதி> 'ஆல்ட்' உரையைக் காணவில்லை."
+msgstr "[1.1.9.1]: <பகுதி> 'மாற்று' உரையைக் காணவில்லை."
 
 msgctxt "SCRIPT_MISSING_NOSCRIPT"
 msgid "[1.1.10.1]: <script> missing <noscript> section."
-msgstr "[1.1.10.1]: <ச்கிரிப்ட்> காணவில்லை <soscript> பிரிவு."
+msgstr "[1.1.10.1]: <கைஉரை> காணவில்லை <இல்லைகைஉரை> பிரிவு."
 
 msgctxt "ASCII_REQUIRES_DESCRIPTION"
 msgid "[1.1.12.1]: ascii art requires description."
@@ -3326,7 +3326,7 @@ msgctxt "INFORMATION_NOT_CONVEYED_SCRIPT"
 msgid ""
 "[2.1.1.4]: ensure information not conveyed through color alone (script)."
 msgstr ""
-"[2.1.1.4]: வண்ணத்தின் மூலம் மட்டும் (ச்கிரிப்ட்) தெரிவிக்கப்படாத தகவல்களை "
+"[2.1.1.4]: வண்ணத்தின் மூலம் மட்டும் (கைஉரை) தெரிவிக்கப்படாத தகவல்களை "
 "உறுதிப்படுத்தவும்."
 
 msgctxt "INFORMATION_NOT_CONVEYED_INPUT"
@@ -3442,7 +3442,7 @@ msgstr "[5.5.1.1]: <அட்டவணை> சுருக்கம் இல்
 
 msgctxt "TABLE_SUMMARY_INVALID_NULL"
 msgid "[5.5.1.2]: <table> summary invalid (null)."
-msgstr "[5.5.1.2]: <அட்டவணை> சுருக்கம் தவறானது (பூச்யம்)."
+msgstr "[5.5.1.2]: <அட்டவணை> சுருக்கம் தவறானது (சுழியம்)."
 
 msgctxt "TABLE_SUMMARY_INVALID_SPACES"
 msgid "[5.5.1.3]: <table> summary invalid (spaces)."
@@ -3462,7 +3462,7 @@ msgstr "[5.6.1.1]: <அட்டவணை> தலைப்பு சுருக
 
 msgctxt "TABLE_MAY_REQUIRE_HEADER_ABBR_NULL"
 msgid "[5.6.1.2]: <table> header abbreviations invalid (null)."
-msgstr "[5.6.1.2]: <அட்டவணை> தலைப்பு சுருக்கங்கள் தவறானவை (பூச்யம்)."
+msgstr "[5.6.1.2]: <அட்டவணை> தலைப்பு சுருக்கங்கள் தவறானவை (சுழியம்)."
 
 msgctxt "TABLE_MAY_REQUIRE_HEADER_ABBR_SPACES"
 msgid "[5.6.1.3]: <table> header abbreviations invalid (spaces)."
@@ -3482,7 +3482,7 @@ msgstr "[6.1.1.3]: பாணி ​​தாள்களுக்கு சோ�
 
 msgctxt "FRAME_SRC_INVALID"
 msgid "[6.2.1.1]: <frame> source invalid."
-msgstr "[6.2.1.1]: <பிரேம்> மூல தவறானது."
+msgstr "[6.2.1.1]: <frame> மூல தவறானது."
 
 msgctxt "TEXT_EQUIVALENTS_REQUIRE_UPDATING_APPLET"
 msgid "[6.2.2.1]: text equivalents require updating (applet)."
@@ -3490,7 +3490,7 @@ msgstr "[6.2.2.1]: உரை equivalents require updating (applet)."
 
 msgctxt "TEXT_EQUIVALENTS_REQUIRE_UPDATING_SCRIPT"
 msgid "[6.2.2.2]: text equivalents require updating (script)."
-msgstr "[6.2.2.2]: உரை சமமானவர்களுக்கு புதுப்பித்தல் தேவை (ச்கிரிப்ட்)."
+msgstr "[6.2.2.2]: உரை சமமானவர்களுக்கு புதுப்பித்தல் தேவை (கைஉரை)."
 
 msgctxt "TEXT_EQUIVALENTS_REQUIRE_UPDATING_OBJECT"
 msgid "[6.2.2.3]: text equivalents require updating (object)."
@@ -3498,7 +3498,7 @@ msgstr "[6.2.2.3]: உரை சமமானவர்களுக்கு ப�
 
 msgctxt "PROGRAMMATIC_OBJECTS_REQUIRE_TESTING_SCRIPT"
 msgid "[6.3.1.1]: programmatic objects require testing (script)."
-msgstr "[6.3.1.1]: நிரல் பொருள்களுக்கு சோதனை தேவை (ச்கிரிப்ட்)."
+msgstr "[6.3.1.1]: நிரல் பொருள்களுக்கு சோதனை தேவை (கைஉரை)."
 
 msgctxt "PROGRAMMATIC_OBJECTS_REQUIRE_TESTING_OBJECT"
 msgid "[6.3.1.2]: programmatic objects require testing (object)."
@@ -3530,7 +3530,7 @@ msgstr "[6.5.1.4]: <noframes> பிரிவு தவறானது (இண�
 
 msgctxt "REMOVE_FLICKER_SCRIPT"
 msgid "[7.1.1.1]: remove flicker (script)."
-msgstr "[7.1.1.1]: ஃப்ளிக்கரை அகற்று (ச்கிரிப்ட்)."
+msgstr "[7.1.1.1]: ஃப்ளிக்கரை அகற்று (கைஉரை)."
 
 msgctxt "REMOVE_FLICKER_OBJECT"
 msgid "[7.1.1.2]: remove flicker (object)."
@@ -3550,21 +3550,21 @@ msgstr "[7.1.1.5]: ஃப்ளிக்கரை அகற்று (அனி�
 
 msgctxt "REMOVE_BLINK_MARQUEE"
 msgid "[7.2.1.1]: remove blink/marquee."
-msgstr "[7.2.1.1]: பிளிங்கை அகற்று/மார்க்யூவை அகற்று."
+msgstr "[7.2.1.1]: பிளிங்கை/மார்க்யூவை அகற்று."
 
 msgctxt "REMOVE_AUTO_REFRESH"
 msgid "[7.4.1.1]: remove auto-refresh."
-msgstr "[7.4.1.1]: ஆட்டோ-ரஃப்ரெசை அகற்று."
+msgstr "[7.4.1.1]: தானி-புதுப்பியை அகற்று."
 
 msgctxt "REMOVE_AUTO_REDIRECT"
 msgid "[7.5.1.1]: remove auto-redirect."
-msgstr "[7.5.1.1]: ஆட்டோ-திருப்புமுனை அகற்று."
+msgstr "[7.5.1.1]: தானி-திருப்புமுனை அகற்று."
 
 msgctxt "ENSURE_PROGRAMMATIC_OBJECTS_ACCESSIBLE_SCRIPT"
 msgid "[8.1.1.1]: ensure programmatic objects are accessible (script)."
 msgstr ""
 "[8.1.1.1]: நிரல் பொருள்கள் அணுகக்கூடியவை என்பதை உறுதிப்படுத்தவும் "
-"(ச்கிரிப்ட்)."
+"(கைஉரை)."
 
 msgctxt "ENSURE_PROGRAMMATIC_OBJECTS_ACCESSIBLE_OBJECT"
 msgid "[8.1.1.2]: ensure programmatic objects are accessible (object)."
@@ -3592,11 +3592,11 @@ msgstr "[9.3.1.1]: <script> not keyboard accessible (onMouseDown)."
 
 msgctxt "SCRIPT_NOT_KEYBOARD_ACCESSIBLE_ON_MOUSE_UP"
 msgid "[9.3.1.2]: <script> not keyboard accessible (onMouseUp)."
-msgstr "[9.3.1.2]: <ச்கிரிப்ட்> விசைப்பலகை அணுக முடியாதது (onmouseup)."
+msgstr "[9.3.1.2]: <கைஉரை> விசைப்பலகை அணுக முடியாதது (onmouseup)."
 
 msgctxt "SCRIPT_NOT_KEYBOARD_ACCESSIBLE_ON_CLICK"
 msgid "[9.3.1.3]: <script> not keyboard accessible (onClick)."
-msgstr "[9.3.1.3]: <ச்கிரிப்ட்> விசைப்பலகை அணுக முடியாதது (OnClick)."
+msgstr "[9.3.1.3]: <கைஉரை> விசைப்பலகை அணுக முடியாதது (OnClick)."
 
 msgctxt "SCRIPT_NOT_KEYBOARD_ACCESSIBLE_ON_MOUSE_OVER"
 msgid "[9.3.1.4]: <script> not keyboard accessible (onMouseOver)."
@@ -3604,7 +3604,7 @@ msgstr "[9.3.1.4]: <script> not keyboard accessible (onMouseOver)."
 
 msgctxt "SCRIPT_NOT_KEYBOARD_ACCESSIBLE_ON_MOUSE_OUT"
 msgid "[9.3.1.5]: <script> not keyboard accessible (onMouseOut)."
-msgstr "[9.3.1.5]: <ச்கிரிப்ட்> விசைப்பலகை அணுக முடியாதது (onmouseout)."
+msgstr "[9.3.1.5]: <கைஉரை> விசைப்பலகை அணுக முடியாதது (onMouseOut)."
 
 msgctxt "SCRIPT_NOT_KEYBOARD_ACCESSIBLE_ON_MOUSE_MOVE"
 msgid "[9.3.1.6]: <script> not keyboard accessible (onMouseMove)."
@@ -3612,19 +3612,19 @@ msgstr "[9.3.1.6]: <script> not keyboard accessible (onMouseMove)."
 
 msgctxt "NEW_WINDOWS_REQUIRE_WARNING_NEW"
 msgid "[10.1.1.1]: new windows require warning (_new)."
-msgstr "[10.1.1.1]: புதிய சாளரங்களுக்கு முன்னறிவிப்பு தேவை (_ நியூ)."
+msgstr "[10.1.1.1]: புதிய சாளரங்களுக்கு முன்னறிவிப்பு தேவை (_new)."
 
 msgctxt "NEW_WINDOWS_REQUIRE_WARNING_BLANK"
 msgid "[10.1.1.2]: new windows require warning (_blank)."
-msgstr "[10.1.1.2]: புதிய சாளரங்களுக்கு முன்னறிவிப்பு தேவை (_ பிளாங்க்)."
+msgstr "[10.1.1.2]: புதிய சாளரங்களுக்கு முன்னறிவிப்பு தேவை (_blank)."
 
 msgctxt "REPLACE_DEPRECATED_HTML_APPLET"
 msgid "[11.2.1.1]: replace deprecated html <applet>."
-msgstr "[11.2.1.1]: நீக்கப்பட்ட உஉகுமொ <Applet> ஐ மாற்றவும்."
+msgstr "[11.2.1.1]: நீக்கப்பட்ட உஉகுமொ <applet> ஐ மாற்றவும்."
 
 msgctxt "REPLACE_DEPRECATED_HTML_BASEFONT"
 msgid "[11.2.1.2]: replace deprecated html <basefont>."
-msgstr "[11.2.1.2]: நீக்கப்பட்ட உஉகுமொ <Basefont> ஐ மாற்றவும்."
+msgstr "[11.2.1.2]: நீக்கப்பட்ட உஉகுமொ <basefont> ஐ மாற்றவும்."
 
 msgctxt "REPLACE_DEPRECATED_HTML_CENTER"
 msgid "[11.2.1.3]: replace deprecated html <center>."
@@ -3636,11 +3636,11 @@ msgstr "[11.2.1.4]: நீக்கப்பட்ட உஉகுமொ <dir> �
 
 msgctxt "REPLACE_DEPRECATED_HTML_FONT"
 msgid "[11.2.1.5]: replace deprecated html <font>."
-msgstr "[11.2.1.5]: நீக்கப்பட்ட உஉகுமொ <Font> ஐ மாற்றவும்."
+msgstr "[11.2.1.5]: நீக்கப்பட்ட உஉகுமொ <font> ஐ மாற்றவும்."
 
 msgctxt "REPLACE_DEPRECATED_HTML_ISINDEX"
 msgid "[11.2.1.6]: replace deprecated html <isindex>."
-msgstr "[11.2.1.6]: நீக்கப்பட்ட உஉகுமொ <SINDEX> ஐ மாற்றவும்."
+msgstr "[11.2.1.6]: நீக்கப்பட்ட உஉகுமொ <isindex> ஐ மாற்றவும்."
 
 msgctxt "REPLACE_DEPRECATED_HTML_MENU"
 msgid "[11.2.1.7]: replace deprecated html <menu>."
@@ -3652,7 +3652,7 @@ msgstr "[11.2.1.8]: நீக்கப்பட்ட உஉகுமொ <s> ஐ
 
 msgctxt "REPLACE_DEPRECATED_HTML_STRIKE"
 msgid "[11.2.1.9]: replace deprecated html <strike>."
-msgstr "[11.2.1.9]: நீக்கப்பட்ட உஉகுமொ <STRIKE> ஐ மாற்றவும்."
+msgstr "[11.2.1.9]: நீக்கப்பட்ட உஉகுமொ <strike> ஐ மாற்றவும்."
 
 msgctxt "REPLACE_DEPRECATED_HTML_U"
 msgid "[11.2.1.10]: replace deprecated html <u>."
@@ -3660,11 +3660,11 @@ msgstr "[11.2.1.10]: நீக்கப்பட்ட உஉகுமொ <u> �
 
 msgctxt "FRAME_MISSING_TITLE"
 msgid "[12.1.1.1]: <frame> missing title."
-msgstr "[12.1.1.1]: <பிரேம்> தலைப்பு இல்லை தலைப்பு."
+msgstr "[12.1.1.1]: <frame> தலைப்பு இல்லை தலைப்பு."
 
 msgctxt "FRAME_TITLE_INVALID_NULL"
 msgid "[12.1.1.2]: <frame> title invalid (null)."
-msgstr "[12.1.1.2]: <frame> தலைப்பு தவறானது (பூச்யம்)."
+msgstr "[12.1.1.2]: <frame> தலைப்பு தவறானது (சுழியம்)."
 
 msgctxt "FRAME_TITLE_INVALID_SPACES"
 msgid "[12.1.1.3]: <frame> title invalid (spaces)."
@@ -3672,21 +3672,21 @@ msgstr "[12.1.1.3]: <frame> தலைப்பு தவறானது (இட�
 
 msgctxt "ASSOCIATE_LABELS_EXPLICITLY"
 msgid "[12.4.1.1]: associate labels explicitly with form controls."
-msgstr "[12.4.1.1]: படிவக் கட்டுப்பாடுகளுடன் வெளிப்படையாக இணை லேபிள்கள்."
+msgstr "[12.4.1.1]: படிவக் கட்டுப்பாடுகளுடன் வெளிப்படையாக இணை சிட்டைகள்."
 
 msgctxt "ASSOCIATE_LABELS_EXPLICITLY_FOR"
 msgid "[12.4.1.2]: associate labels explicitly with form controls (for)."
 msgstr ""
-"[12.4.1.2]: படிவக் கட்டுப்பாடுகளுடன் (க்கு) வெளிப்படையாக இணை லேபிள்கள்."
+"[12.4.1.2]: படிவக் கட்டுப்பாடுகளுடன் (க்கு) வெளிப்படையாக இணை சிட்டைகள்."
 
 msgctxt "ASSOCIATE_LABELS_EXPLICITLY_ID"
 msgid "[12.4.1.3]: associate labels explicitly with form controls (id)."
 msgstr ""
-"[12.4.1.3]: படிவக் கட்டுப்பாடுகள் (ஐடி) உடன் வெளிப்படையாக இணை லேபிள்கள்."
+"[12.4.1.3]: படிவக் கட்டுப்பாடுகள் (ஐடி) உடன் வெளிப்படையாக இணை சிட்டைகள்."
 
 msgctxt "LINK_TEXT_NOT_MEANINGFUL"
 msgid "[13.1.1.1]: link text not meaningful."
-msgstr "[13.1.1.1]: இணைப்பு உரை அர்த்தமுள்ளதாக இல்லை."
+msgstr "[13.1.1.1]: இணைப்பு உரை பொருள்உள்ளதாக இல்லை."
 
 msgctxt "LINK_TEXT_MISSING"
 msgid "[13.1.1.2]: link text missing."
@@ -3698,7 +3698,7 @@ msgstr "[13.1.1.3]: உரை மிக நீளமாக இணைக்கவ
 
 msgctxt "LINK_TEXT_NOT_MEANINGFUL_CLICK_HERE"
 msgid "[13.1.1.4]: link text not meaningful (click here)."
-msgstr "[13.1.1.4]: இணைப்பு உரை அர்த்தமுள்ளதாக இல்லை (இங்கே சொடுக்கு செய்க)."
+msgstr "[13.1.1.4]: இணைப்பு உரை பொருள்உள்ளதாக இல்லை (இங்கே சொடுக்கு செய்க)."
 
 msgctxt "METADATA_MISSING"
 msgid "[13.2.1.1]: Metadata missing."
@@ -3706,11 +3706,11 @@ msgstr "[13.2.1.1]: மேனிலை தரவு இல்லை."
 
 msgctxt "METADATA_MISSING_REDIRECT_AUTOREFRESH"
 msgid "[13.2.1.3]: Metadata missing (redirect/auto-refresh)."
-msgstr "[13.2.1.3]: மேனிலை தரவு காணவில்லை (திருப்பி/ஆட்டோ-ரஃப்ரெச்)."
+msgstr "[13.2.1.3]: மேனிலை தரவு காணவில்லை (திருப்பி/தானி-புதுப்பி)."
 
 msgctxt "SKIPOVER_ASCII_ART"
 msgid "[13.10.1.1]: skip over ascii art."
-msgstr "[13.10.1.1]: தபஅஇகு கலையைத் தவிர்க்கவும்."
+msgstr "[13.10.1.1]: தபஅஇகு கலையைத் தவிர்."
 
 msgctxt "TC_LABEL_COL"
 msgid "column"
@@ -3722,7 +3722,7 @@ msgstr "கோப்பு"
 
 msgctxt "TC_LABEL_LANG"
 msgid "lang"
-msgstr "லாங்"
+msgstr "மொழி"
 
 msgctxt "TC_LABEL_LEVL"
 msgid "level"
@@ -3730,7 +3730,7 @@ msgstr "நிலை"
 
 msgctxt "TC_LABEL_OPT"
 msgid "option"
-msgstr "சூதம்"
+msgstr "விருப்பம்"
 
 #, c-format
 msgctxt "TC_MAIN_ERROR_LOAD_CONFIG"
@@ -3855,7 +3855,7 @@ msgstr "பெயரிடப்பட்ட நிறுவனங்களை �
 msgctxt "TC_OPT_OMIT"
 msgid "omit optional start tags and end tags"
 msgstr ""
-"விருப்ப தொடக்க குறிச்சொற்கள் மற்றும் இறுதி குறிச்சொற்களைத் தவிர்க்கவும்"
+"விருப்ப தொடக்க குறிச்சொற்கள் மற்றும் இறுதி குறிச்சொற்களைத் தவிர்"
 
 msgctxt "TC_OPT_OUTPUT"
 msgid "write output to the specified <file>"
@@ -3863,7 +3863,7 @@ msgstr "குறிப்பிட்ட <file> க்கு வெளியீ
 
 msgctxt "TC_OPT_QUIET"
 msgid "suppress nonessential output"
-msgstr "அத்தியாவசியமான வெளியீட்டை அடக்கவும்"
+msgstr "தேவையில்லாத வெளியீட்டை அடக்கவும்"
 
 msgctxt "TC_OPT_RAW"
 msgid "output values above 127 without conversion to entities"
@@ -4066,7 +4066,7 @@ msgid ""
 "This is modern HTML Tidy version %s.\n"
 "\n"
 msgstr ""
-"%s [விருப்பங்கள் ...] [கோப்பு ...] [விருப்பங்கள் ...] [கோப்பு ...] \n"
+"%s [விருப்பங்கள்...] [கோப்பு...] [விருப்பங்கள்...] [கோப்பு...] \n"
 "சுத்தம் செய்வதற்கான பயன்பாடு மற்றும் அழகாக அச்சிட HTML/XHTML/XML. \n"
 "\n"
 "இது நவீன உஉகுமொ நேர்த்தியான பதிப்பு %s.\n"
@@ -4200,7 +4200,8 @@ msgstr ""
 "இந்த கோப்புகளில், இருந்தால்: \n"
 "\n"
 "%s \n"
-"%s\n"
+"%s \n"
+"\n"
 
 #. This console output should be limited to 78 characters per line.
 #. - The strings "Tidy" and "HTML Tidy" are the program name and must not be
@@ -4230,7 +4231,7 @@ msgstr ""
 "\n"
 "கட்டளை வரியில் குறிப்பிடப்படும்போது, ​​படிவத்தைப் பயன்படுத்தவும்: \n"
 "\n"
-"-மடக்கு 72 --ண்டென்ட் இல்லை\n"
+"-மடக்கு 72 --உள்தள்ளல் இல்லை\n"
 
 msgctxt "TC_TXT_HELP_CONFIG_NAME"
 msgid "Name"
@@ -4397,7 +4398,7 @@ msgstr ""
 "\n"
 "நேர்த்தியாக உங்கள் இருப்பிடத்தை தீர்மானிக்க முடிந்தால், நேர்த்தியாகப் பயன்படுத்தும் \n"
 "லோகேலின் மொழி தானாகவே. எடுத்துக்காட்டாக யூனிக்ச் போன்ற அமைப்புகள் ஒரு \n"
-"$ Lang மற்றும்/அல்லது $ lc_all சுற்றுச்சூழல் மாறி. உங்கள் இயக்கத்தை அணுகவும் \n"
+"$LANG மற்றும்/அல்லது $LC_ALL சுற்றுச்சூழல் மாறி. உங்கள் இயக்கத்தை அணுகவும் \n"
 "மேலும் தகவலுக்கு கணினி ஆவணங்கள். \n"
 "\n"
 "டைடி தற்போது %s லோகேல் பயன்படுத்துகிறது.\n"
